@@ -1,0 +1,22 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <id>org.ZacharyEdgell.CreateVueTestJest</id>
+  <name>Plugin display name here</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <description>
+    Enter short description for your plugin here.&lt;br&gt;
+    &lt;em&gt;most HTML tags may be used&lt;/em&gt;
+    </description>
+  <idea-version since-build="173.0"/>
+  <depends>com.intellij.modules.lang</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="Actions.CreateTest" class="Actions.CreateTest" text="Create Test" description="Creates test for vue files">
+      <add-to-group group-id="FileChooserToolbar" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt G"/>
+    </action>
+  </actions>
+</idea-plugin>

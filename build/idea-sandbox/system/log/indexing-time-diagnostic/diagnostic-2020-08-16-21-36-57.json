@@ -1,0 +1,145 @@
+{
+  "appInfo" : {
+    "build" : "202.6397.88",
+    "buildDate" : "Fri, 24 Jul 2020 15:05:45 -0400",
+    "productCode" : "WS",
+    "generated" : "Sun, 16 Aug 2020 21:36:57 -0400",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.31"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 48,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "testws",
+    "numberOfFileProviders" : 2,
+    "totalNumberOfFiles" : 2428,
+    "times" : {
+      "indexingTime" : "4 s 197 ms",
+      "scanFilesTime" : "1 s 478 ms",
+      "pushPropertiesTime" : "163 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Sun, 16 Aug 2020 21:36:52 -0400",
+      "pushPropertiesEnd" : "Sun, 16 Aug 2020 21:36:53 -0400",
+      "scanFilesStart" : "Sun, 16 Aug 2020 21:36:53 -0400",
+      "scanFilesEnd" : "Sun, 16 Aug 2020 21:36:54 -0400",
+      "indexExtensionsStart" : "Sun, 16 Aug 2020 21:36:53 -0400",
+      "indexExtensionsEnd" : "Sun, 16 Aug 2020 21:36:53 -0400",
+      "indexingStart" : "Sun, 16 Aug 2020 21:36:52 -0400",
+      "indexingEnd" : "Sun, 16 Aug 2020 21:36:57 -0400"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JavaScript",
+      "partOfTotalIndexingTime" : "54.8%",
+      "partOfTotalContentLoadingTime" : "81.4%",
+      "totalNumberOfFiles" : 2265,
+      "totalFilesSize" : "4.05 MB",
+      "indexingSpeed" : "1.08 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@f9818803",
+        "numberOfFiles" : 2263,
+        "totalFilesSize" : "4.05 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "96.6%"
+      }, {
+        "providerName" : "Module 'testws'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "209 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.4%"
+      } ]
+    }, {
+      "fileType" : "TypeScript",
+      "partOfTotalIndexingTime" : "43.4%",
+      "partOfTotalContentLoadingTime" : "12.5%",
+      "totalNumberOfFiles" : 158,
+      "totalFilesSize" : "1.21 MB",
+      "indexingSpeed" : "406.45 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@f9818803",
+        "numberOfFiles" : 158,
+        "totalFilesSize" : "1.21 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Vue.js",
+      "partOfTotalIndexingTime" : "1.8%",
+      "partOfTotalContentLoadingTime" : "6.1%",
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : "6.73 kB",
+      "indexingSpeed" : "54.76 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'testws'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "3.22 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "91.9%"
+      }, {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@f9818803",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "3.51 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "8.1%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "100.0%",
+      "totalNumberOfFiles" : 2427,
+      "totalFilesSize" : "5.26 MB",
+      "indexingSpeed" : "767.39 kB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@f9818803",
+      "totalNumberOfFiles" : 2423,
+      "totalIndexingTime" : "2 s 385 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JavaScript",
+        "numberOfFiles" : 2263,
+        "totalFilesSize" : "4.05 MB",
+        "partOfTotalIndexingTime" : "54.9%",
+        "partOfTotalContentLoadingTime" : "86.6%"
+      }, {
+        "fileType" : "TypeScript",
+        "numberOfFiles" : 158,
+        "totalFilesSize" : "1.21 MB",
+        "partOfTotalIndexingTime" : "45.0%",
+        "partOfTotalContentLoadingTime" : "13.3%"
+      }, {
+        "fileType" : "Vue.js",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "3.51 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "100.0%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Module 'testws'",
+      "totalNumberOfFiles" : 5,
+      "totalIndexingTime" : "139 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JavaScript",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "209 B",
+        "partOfTotalIndexingTime" : "52.8%",
+        "partOfTotalContentLoadingTime" : "6.9%"
+      }, {
+        "fileType" : "Vue.js",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "3.22 kB",
+        "partOfTotalIndexingTime" : "47.2%",
+        "partOfTotalContentLoadingTime" : "93.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "100.0%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}
